@@ -760,7 +760,7 @@ section.lazy-placeholder:after {
     width: 0;
     margin: auto;
     opacity: 0;
-    border-top: 2px solid #ffc600;
+    border-top: 2px solid #f54a84;
     transition: all 0.3s ease-in-out 0ms;
   }
   .cid-s2V9RwV6vb .navbar-nav > li:hover > a:before {
