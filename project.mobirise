@@ -10,7 +10,7 @@
         "successColor": "#ffc600",
         "infoColor": "#83868c",
         "warningColor": "#eff2f7",
-        "dangerColor": "#dd4b39",
+        "dangerColor": "#f54a84",
         "mainFont": "Jost",
         "display1Font": "Jost",
         "display1Size": "3.2",
@@ -31,7 +31,8 @@
       "additionalSetColors": [
         "#efeeee",
         "#7f7f7f",
-        "#232323"
+        "#232323",
+        "#f54a84"
       ]
     },
     "path": "@PROJECT_PATH@",
