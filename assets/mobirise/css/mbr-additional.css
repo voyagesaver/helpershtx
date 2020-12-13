@@ -2117,6 +2117,94 @@ section.lazy-placeholder:after {
 .cid-s2V9VGUYbX .author-post .author-description .social-media {
   color: #7f7f7f;
 }
+.cid-sj56snkGp8 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #ffffff;
+}
+.cid-sj56snkGp8 .mbr-section-title {
+  margin-bottom: 0;
+}
+.cid-sj56snkGp8 .mbr-iconfont {
+  color: #ffffff;
+  font-size: 1rem;
+}
+.cid-sj56snkGp8 .mbr-iconfont:before {
+  padding: .5rem;
+  border: 1px solid;
+  border-radius: 100px;
+}
+.cid-sj56snkGp8 .mbr-iconfont:hover {
+  color: #e96188;
+}
+.cid-sj56snkGp8 .image-wrap {
+  position: relative;
+}
+.cid-sj56snkGp8 .image-wrap img {
+  width: 100%;
+  z-index: 0;
+}
+.cid-sj56snkGp8 .mbr-section-subtitle {
+  line-height: 1.5;
+  color: #767676;
+}
+.cid-sj56snkGp8 .card-wrap {
+  margin-bottom: 3rem;
+}
+.cid-sj56snkGp8 .card-wrap:hover .social-media {
+  transition-delay: 0.3s;
+  opacity: 1;
+}
+.cid-sj56snkGp8 .card-wrap:hover .img-overlay {
+  opacity: 1;
+}
+.cid-sj56snkGp8 .social-media {
+  bottom: 5%;
+  transition-delay: 0s;
+  list-style-type: none;
+  position: absolute;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+  width: 100%;
+  z-index: 1;
+  opacity: 0;
+  -webkit-transition: opacity 0.2s ease-in-out;
+  -moz-transition: opacity 0.2s ease-in-out;
+  -o-transition: opacity 0.2s ease-in-out;
+  transition: opacity 0.2s ease-in-out;
+}
+.cid-sj56snkGp8 .social-media ul {
+  margin: 0;
+  padding: 0;
+}
+.cid-sj56snkGp8 .social-media ul li {
+  margin: .1rem;
+  display: inline-block;
+}
+.cid-sj56snkGp8 .img-overlay {
+  background: linear-gradient(transparent, #232323);
+  pointer-events: none;
+  position: absolute;
+  height: 100.05%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  transition-delay: 0s;
+  -webkit-transition: opacity 0.4s ease-in-out;
+  -moz-transition: opacity 0.4s ease-in-out;
+  -o-transition: opacity 0.4s ease-in-out;
+  transition: opacity 0.4s ease-in-out;
+}
+.cid-sj56snkGp8 .builderCard .img-overlay {
+  border-bottom-left-radius: 5rem;
+}
+.cid-sj56snkGp8 .mbr-role {
+  color: #e96188;
+}
+.cid-sj56snkGp8 .mbr-text {
+  color: #767676;
+}
 .cid-sdmMkFASc2 {
   padding-top: 60px;
   padding-bottom: 60px;
